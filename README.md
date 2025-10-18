@@ -40,9 +40,6 @@ The full project is documented in Notion, accompanied by an interactive Looker S
 
 ```
 financial-transactions-and-fraud-detection/
-├── sql/
-│   ├── data-validation-and-exploration.sql
-│   └── customer-behaviour-and-fraud-analysis.sql
 ├── dashboard_screenshots/
 │   ├── dahsboard-page1.png
 │   └── dashboard-page2.png
