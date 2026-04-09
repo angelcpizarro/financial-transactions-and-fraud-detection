@@ -1,4 +1,4 @@
-# 💳 Uncovering Risk: Data-Driven Insights from Financial Transactions
+# Uncovering Risk: Data-Driven Insights from Financial Transactions
 
 This project explores how data analytics can help detect fraudulent activity and understand customer spending behaviour in financial transactions.
 Using a dataset of 5 million synthetic transactions, the analysis focuses on identifying trends, behavioural patterns, and anomalies across customers, devices, and payment channels — illustrating how data-driven methods can strengthen fraud detection and customer protection systems.
@@ -54,12 +54,6 @@ financial-transactions-and-fraud-detection/
 
 ---
 
-## 📌 Status
-
-✅ Completed
-
----
-
 ## 🚀 Next Steps
 
 - Extend the analysis with real-time fraud monitoring concepts or predictive modelling using machine learning.
@@ -72,4 +66,4 @@ Check out more of my work on my [GitHub profile](https://github.com/angelcpizarr
 
 ---
 
-Thank you for visiting!
+Thank you for visiting! 😸
